@@ -1,0 +1,7 @@
+{
+    "*": {
+        "target": "https://localhost:44398/api/notes",
+        "secure": false
+
+    }
+}
